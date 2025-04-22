@@ -35,23 +35,23 @@ function container3() {
             <ul className="flex flex-col list-none w-full m-2">
               <li className="flex m-4 h-[9em] w-full space-x-4">
                 <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={java} alt="java" className="w-full h-full object-contain"></Image></div>
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={html} alt="html" className="w-full h-full object-contain"></Image></div>
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={css} alt="css" className="w-full h-full object-contain"></Image></div>
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={tailwind} alt="tailwind" className="w-full h-full object-contain"></Image></div>
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={mysql} alt="sql" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={html} alt="html" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={css} alt="css" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={tailwind} alt="tailwind" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={mysql} alt="sql" className="w-full h-full object-contain"></Image></div>
               </li>
               <li className="flex m-4 h-[9em] w-full space-x-4">
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={javascript} alt="javascript" className="w-full h-full object-contain"></Image></div>
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={figma} alt="figma" className="w-full h-full object-contain"></Image></div>
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={git} alt="git" className="w-full h-full object-contain"></Image></div>
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={powershell} alt="powershell" className="w-full h-full object-contain"></Image></div>
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={mongodb} alt="mongodb" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={javascript} alt="javascript" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={figma} alt="figma" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={git} alt="git" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={powershell} alt="powershell" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={mongodb} alt="mongodb" className="w-full h-full object-contain"></Image></div>
               </li>
               <li className="flex m-4 h-[9em] w-full space-x-4">
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={react} alt="react" className="w-full h-full object-contain"></Image></div>
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={firebase} alt="firebase" className="w-full h-full object-contain"></Image></div>
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={sql} alt="sql" className="w-full h-full object-contain"></Image></div>
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={arcgis} alt="arcgis" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={react} alt="react" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={firebase} alt="firebase" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={sql} alt="sql" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={arcgis} alt="arcgis" className="w-full h-full object-contain"></Image></div>
                
               </li>
 
