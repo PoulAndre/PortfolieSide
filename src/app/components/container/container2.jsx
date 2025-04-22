@@ -20,8 +20,8 @@ function container2() {
         </ul>
         <div className="flex justify-center space-x-10 mt-8">
           <div className="flex-1 h-auto w-auto rounded-lg p-10">
-            <h2 className="font-Tektur text-2xl underline mb-8">Studier og Arbeidserfaring</h2>
-              <p className="mt-4 font-Tektur text-xl">For tiden tar jeg opp et fag fra studiet jeg går som er It og Informasjonssystemer på USN, og jeg jobber midlertidlig hos Neumann Mandal</p>
+            <h2 className="font-Tektur text-2xl text-white underline mb-8">Studier og Arbeidserfaring</h2>
+              <p className="mt-4 font-Tektur text-white text-xl">For tiden tar jeg opp et fag fra studiet jeg går som er It og Informasjonssystemer på USN, og jeg jobber midlertidlig hos Neumann Mandal</p>
           </div>
           <div className="flex-1 h-auto w-auto rounded-lg p-10">
             <h2 className="font-Tektur text-2xl underline mb-8">Fritid og Personlige interesser</h2>
