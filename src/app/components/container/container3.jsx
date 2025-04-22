@@ -34,7 +34,7 @@ function container3() {
           <div className="flex h-full items-top align-middle">
             <ul className="flex flex-col list-none w-full m-2">
               <li className="flex m-4 h-[9em] w-full space-x-4">
-                <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={java} alt="java" className="w-full h-full object-contain"></Image></div>
+                <div className="w-full h-full rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={java} alt="java" className="w-full h-full object-contain"></Image></div>
                 <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={html} alt="html" className="w-full h-full object-contain"></Image></div>
                 <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={css} alt="css" className="w-full h-full object-contain"></Image></div>
                 <div className="w-full h-full border-2 rounded-lg p-4 opacity-70 hover:opacity-100 hover:scale-110 duration-200 transition-all"><Image src={tailwind} alt="tailwind" className="w-full h-full object-contain"></Image></div>
