@@ -20,7 +20,7 @@ function container1() {
     </div>
     <div className="w-full sm:w-1/2 text-center ">
         <h2 className="text-white text-5xl font-bold mb-6 font-Tektur">Poul André G. Røinaas</h2>
-        <h3 className="text-white text-2xl font-bold mb-6 font-Tektur">-- FRONTEND UTVIKLER --</h3>
+        <h3 className="text-white text-2xl font-bold mb-6 font-Tektur">-- It og informasjonssystemer --</h3>
         <ul className="pl-5 text-lg text-white list-none font-Tektur">
             <li className="pb-2 font-light text-2xl text-white font-Tektur">Hei! Jeg er på utkikk etter en front-end utvikler jobb. </li>
             <li className="pb-2 font-light text-2xl text-white font-Tektur">Jeg er glad i design og utvikling, som UI/UX og generelt lage nettsider
