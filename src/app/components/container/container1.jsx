@@ -8,6 +8,8 @@ function container1() {
   return (
     
     <section id="container1"className="shadow-lg flex flex-col items-center justify-center h-auto p-8 max-w-full bg-gradient-to-r from-gray-600 to-black">
+    
+
     <div className="w-full sm:w-[400px] mb-8 sm:mb-0 flex justify-center mt-40 max-w-full relative group">
         <Image src={meg1} alt="meg" className="w-52 h-56 rounded-full shadow-lg transition-transform duration-500 transform group-hover:scale-125 mb-10"/>
         
@@ -38,7 +40,7 @@ function container1() {
             </div>
         </ul>
     </div>
-
+    
 
 </section>
 
