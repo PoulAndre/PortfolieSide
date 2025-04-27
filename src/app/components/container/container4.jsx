@@ -30,9 +30,7 @@ function container4() {
                     </ul>
                   </div>
 
-                  <div className="mt-20">
-                    <a className="underline shadow-red-500/50 p-10 bg-gradient text-blue-700 font-semibold text-3xl opacity-0 hover:opacity-100" href="https://www.youtube.com/" target="_blank" >HER ER DET EN HEMMELIG LINK!!!</a>
-                  </div> 
+                   
 
                   
 
