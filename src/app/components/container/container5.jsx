@@ -10,7 +10,7 @@ function container5() {
     
     <div className="w-full sm:w-1/2 text-center">
         <h2 className="text-white text-5xl font-bold mb-6 font-Tektur">Kontakt info</h2>
-        <ul className="pl-5 text-lg text-white list-none">
+        <ul className="pl-5 text-lg list-none">
             <li className="pb-2 font-extralight text-xl text-white mb-8 font-Tektur">Dersom jeg passer din bedrift, gjerne ta kontakt, evt om du trenger andre referanser</li>
             <li className="pb-2 font-extralight text-xl text-white font-Tektur">Jeg kan bli kontaktet på mobil eller mail!</li>
             </ul>

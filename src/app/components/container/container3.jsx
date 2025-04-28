@@ -27,8 +27,8 @@ function container3() {
     
     <div className="w-full sm:w-1/2 text-center rounded-lg">
         <h2 className="text-white text-5xl font-bold mb-6 font-Tektur">Ferdigheter</h2>
-        <p className="mt-8 text-lg font-Tektur">Under er alle ferdighetene jeg har jobbet med tidligere gjennom skolegangen og privat. Jeg er bedre egnet og kjent med noen av verktøy/programmeringsspråk enn andre. </p>
-        <p className="mb-5 text-lg font-Tektur">Jeg lærer raskt og jeg er alltid motivert til å forbedre og lære nye ferdigheter på forskjellige områder. 
+        <p className="text-white mt-8 text-lg font-Tektur">Under er alle ferdighetene jeg har jobbet med tidligere gjennom skolegangen og privat. Jeg er bedre egnet og kjent med noen av verktøy/programmeringsspråk enn andre. </p>
+        <p className="text-white mb-5 text-lg font-Tektur">Jeg lærer raskt og jeg er alltid motivert til å forbedre og lære nye ferdigheter på forskjellige områder. 
           Gjennom tidligere arbeid har jeg lært meg å tilpasse meg til å bli mer effektiv og raskere ved bruk av ulike verktøy</p>
         
           <div className="flex h-full items-top align-middle">
