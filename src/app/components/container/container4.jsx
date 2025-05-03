@@ -19,9 +19,9 @@ function container4() {
           <div className="flex h-full items-top align-middle">
                     <ul className="flex flex-col list-none w-full m-2">
                       <li className="flex m-4 h-[9em] max-w-full space-x-4">
-                        <div className="w-full h-full border-2 rounded-lg p-4"><a href="https://github.com/EvenR98/Gruppe11-sjakktrener?tab=readme-ov-file" target="_blank"><Image src={sjakk} alt="sjakk" className="flex w-full h-full object-contain bg-white rounded-xl "></Image></a></div>
+                        <div className="w-full h-full border-2 rounded-lg p-4"><a href="https://sjakktrener-faaf4.web.app/" target="_blank"><Image src={sjakk} alt="sjakk" className="flex w-full h-full object-contain bg-white rounded-xl "></Image></a></div>
                         <div className="w-full h-full border-2 rounded-lg p-4"><a href="https://github.com/PoulAndre/testside.github.io" target="_blank"><Image src={nettside} alt="nettside" className="flex w-full h-full object-contain bg-white rounded-xl"></Image></a></div>
-                        <div className="w-full h-full border-2 rounded-lg p-4"><a href="" target="_blank"><Image src={kalk} alt="kalkulator" className="flex w-full h-full object-contain bg-white rounded-xl"></Image></a></div>
+                        <div className="w-full h-full border-2 rounded-lg p-4"><a href="https://poulandre.github.io/Kalkulator/" target="_blank"><Image src={kalk} alt="kalkulator" className="flex w-full h-full object-contain bg-white rounded-xl"></Image></a></div>
                         <div className="w-full h-full border-2 rounded-lg p-4">Vær-app</div>
                       </li>  
                     </ul>
